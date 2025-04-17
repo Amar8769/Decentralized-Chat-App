@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\thvai\\OneDrive\\Desktop\\ChatApp_Final\\blockchain-chat\\contracts\\Chat.sol": {
+      "lastModificationDate": 1744871959256,
+      "contentHash": "38ca7056d14ce39a9cc1685501b99b12",
+      "sourceName": "contracts/Chat.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Chat"
+      ]
+    }
+  }
+}
